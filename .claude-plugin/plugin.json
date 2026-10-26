@@ -1,0 +1,5 @@
+{
+  "name": "name-session-from-ticket",
+  "description": "Rename the Claude Code session to match the ClickUp ticket for the current git branch, so sessions, branches and tickets are easy to associate.",
+  "version": "1.0.0"
+}
